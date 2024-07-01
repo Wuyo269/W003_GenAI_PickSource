@@ -1,0 +1,5 @@
+Answer user question based on the context and nothing more.
+If you do not know the answer return None
+Context###
+context_placeholder
+
